@@ -1,17 +1,17 @@
 import defaultColors from "../util/default-colors.json"
 import darkColors from "../util/dark-theme-colors.json"
-import { lightness } from "@theme-ui/color"
+import { lightness, darken } from "@theme-ui/color"
 const theme = {
   colors: {
     ...defaultColors,
     text: "#000",
     background: "#fff",
-    primary: "#5C2941",
+    primary: "#ff5d8f",
     accent: "#fff",
     muted: "rgba(0, 0, 0, 0.7)",
-    cardBg: "#fff",
-    borderColor: "#540229",
-    labelText: "#777",
+    cardBg: "#fafafa",
+    borderColor: darken("siteColor", 0.5),
+    labelText: "#fafafa",
     inputBorder: "#aaa",
     inputBackground: "#fff",
     socialIcons: lightness("siteColor", 0.4),
@@ -28,8 +28,8 @@ const theme = {
         muted: "rgba(255, 255, 255, 0.7)",
         cardBg: "#252525",
         borderColor: "#888",
-        labelText: "#777",
-        inputBorder: "#777",
+        labelText: "#fafafa",
+        inputBorder: "#fafafa",
         inputBackground: "#333",
         socialIcons: lightness("siteColor", 0.5),
         socialIconsHover: lightness("siteColor", 0.9),
@@ -42,7 +42,7 @@ const theme = {
   },
   links: {
     postLink: {
-      color: "muted",
+      color: "text",
       "&:hover": {
         color: "text",
       },
