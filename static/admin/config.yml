@@ -102,6 +102,19 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Clube do Scrapbook"
+        name: "clube-do-scrapbook"
+        file: "src/content/pages/clube-do-scrapbook.md"
+        fields:
+          - {
+              label: "Template",
+              name: "template",
+              widget: "hidden",
+              default: "clube-do-scrapbook-page",
+            }
+          - { label: "Slug", name: "slug", widget: "hidden", default: "/clube-do-scrapbook" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact"
         name: "contact"
         file: "src/content/pages/contact.md"

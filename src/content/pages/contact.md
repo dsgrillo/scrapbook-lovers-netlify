@@ -1,9 +1,13 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Entre em contato
 ---
+Vamos conversar! =D
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+* Quer trocar figurinhas sobre **projetos** e **novidades** do mundo do scrapbook? 
+* Tem alguma **dúvida** ou **sugestão**?
+* Quer saber mais sobre **cursos online**?
+* Gostaria de **comprar** ou **encomendar** um álbum personalizado?
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Não hesite em falar conosco por meio das informações de contato, redes sociais ou envie uma mensagem usando o formulário.

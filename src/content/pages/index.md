@@ -1,12 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Clube do Scrapbook
+tagline: O lugar perfeito para quem ama Scrapbook
+featuredImage: /assets/brushstroke-with-pink-photo-dj-music-youtube-channel-art.png
 cta:
-  ctaText: Know more
+  ctaText: Saiba mais
   ctaLink: /about
 ---
+É apaixonado por fotografias e artesanato? Que tal **aprender a fazer ábuns incríveis**?
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Participe do nosso mini curso **100% online** e **100% gratuito** e aprenda a fazer ábuns personaliuzados em scrapbook.

@@ -11,16 +11,21 @@ const MenuItems = [
     title: "Home",
   },
   {
+    path: "/clube-do-scrapbook",
+    title: "Clube do Scrapbook",
+  },
+  {
     path: "/about",
     title: "About",
   },
+
   {
     path: "/blog",
     title: "Blog",
   },
   {
     path: "/contact",
-    title: "Contact",
+    title: "Contato",
   },
 ]
 

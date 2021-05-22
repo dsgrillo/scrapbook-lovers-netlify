@@ -1,52 +1,38 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: Sobre mim
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+# Fotografias + Artesanato + Papelaria = Amor pelo Scrapbook <3
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+![](/assets/untitled-design-6-.png)
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+### Fotos em um mundo digital
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** *My folks were always on me to groom myself and wear underpants.* What am I, the pope?
+Eu sempre fui apaixonada por fotos.
 
-![alt text](/assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg "title")
+Desde pequena, admirava os álbuns de foto da família que minha mãe fazia. Sabe aqueles álbuns grandes dos anos 90 com uma película plástica para proteger as fotos? Então, era assim que se guardava as memórias. E minha mãe escrevia sempre sobre cada foto. Ela provavelmente não sabia mas estava fazendo scrapbook…
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+E nessa era de fotografia digital, eu ainda prefiro imprimir fotos… Não só isso, como eu sou apaixonada por fotos polaroid. Haha Eu coleciono fotos polaroids.
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+### Ainda vou vender minha arte na praia
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+Eu adoro artesanato. De tudo que tipo e estilo. Já pintei aquarela, a óleo, o sete. Já trabalhei com découpage, decorar e pintar caixas em MDF, pintura em tecidos e camisetas. Até já pintei móveis e paredes. Já fiz tricô e crochê. E até pulseira de missanga. O currículo aqui é vasto. Não quer dizer que sou craque em tudo, mas já tive a oportunidade de experimentar coisas novas.
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
+Eu sempre falo pra minha mãe que vou vender minha arte na praia. Haha eu dou risada disso mas é verdade. Esse meu lado hippie xD
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
+### Aquele vício chamado papelaria
 
-* You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-* And when we woke up, we had these bodies.
-* Spare me your space age technobabble, Attila the Hun!
+Sabe aquelas pessoas que amam o início do ano só pra ter motivo pra comprar cadernos, canetas, agenda e tudo que é vendido nas papelarias? Então, essa sou eu. Inclusive, quando era mais nova, sempre economizava os adesivos mais bonitos do caderno para ocasiões especiais…. Eu ainda tenho várias cartelas até hoje.
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Sempre gostei de tudo: das cores, texturas, formatos e estampas dos papéis. E se você conhece um pouquinho do mundo do scrapbook, com certeza você já se deparou na infinidade de papéis maravilhosos que existem por aí. Não só isso, mas os diversos acessórios que acompanham o scrap.
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+### Juntei tudo isso e me aventurei mais a fundo no mundo do Scrapbook
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+Minha jornada tem duas vertentes. A primeira é o Scrapbook/journal. A segunda é a criação de álbuns e card making.
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Eu comecei a fazer scrapbook quando em um intercâmbio para Vancouver em 2010. Lá, uma amiga coreana estava montando seu álbum scrapbook com fotos polaroid. Simplesmente maravilhoso. E de lá pra cá comecei tb a fazer o mesmo, quer dizer, como não tinha polaroid, eu revelava as fotos.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
-
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
-
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
-
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+![Baby Album](/assets/work-from-home-freelance-blog-banner.png "Baby Album - It's a girl")

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Scrapbook Lovers",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "description": "Um site para quem ama scrapbook, fotografias e artesanato. Feito com ❤ por Scrapbook Lovers.",
+    "siteUrl": "https://scrapbooklovers.com",
+    "image": "/assets/brushstroke-with-pink-photo-dj-music-youtube-channel-art.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
