@@ -10,4 +10,4 @@ cta:
 ---
 É apaixonado por fotografias e artesanato? Que tal **aprender a fazer ábuns incríveis**?
 
-Participe do nosso mini curso **100% online** e **100% gratuito** e aprenda a fazer ábuns personaliuzados em scrapbook.
+Participe do nosso mini curso **100% online**, **100% gratuito** e aprenda a fazer ábuns personaliuzados em scrapbook.
