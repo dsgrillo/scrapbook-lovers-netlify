@@ -3,6 +3,10 @@ template: about-page
 slug: /about
 title: Sobre mim
 ---
+Oie, tudo bem? Eu sou a Carla!
+
+Sou Scrapbook Designer no meu tempo livre, moro numa cidadizinha no norte da Itália,  mamãe do Leo (4 meses) e de duas gatas que são auxiliares do meu Atelier e Cat Sitter do nenê. 
+
 # Fotografias + Artesanato + Papelaria = Amor pelo Scrapbook <3
 
 ![](/assets/untitled-design-6-.png)
@@ -32,7 +36,5 @@ Sempre gostei de tudo: das cores, texturas, formatos e estampas dos papéis. E s
 Minha jornada tem duas vertentes. A primeira é o Scrapbook/journal. A segunda é a criação de álbuns e card making.
 
 Eu comecei a fazer scrapbook quando em um intercâmbio para Vancouver em 2010. Lá, uma amiga coreana estava montando seu álbum scrapbook com fotos polaroid. Simplesmente maravilhoso. E de lá pra cá comecei tb a fazer o mesmo, quer dizer, como não tinha polaroid, eu revelava as fotos.
-
-
 
 ![Baby Album](/assets/work-from-home-freelance-blog-banner.png "Baby Album - It's a girl")

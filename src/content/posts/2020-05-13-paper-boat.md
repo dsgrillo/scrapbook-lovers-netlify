@@ -1,32 +1,47 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
+title: Materiais essenciais
+slug: /materiais-essenciais
+date: 2021-05-23 20:10
 description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/img_20200326_163440.jpg
 ---
+O mundo do scrapbook é gigantesco e cheio de materiais incríveis para se trabalhar, mas para quem tá começando é muito fácil ficar perdido no meio de tanta coisa.
 
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+Se você está começando sua jornada no mundo do scrapbook, esse post é pra você!
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+# O que eu realmente preciso?
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+## Kit básico - para exploradores
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+Na verdade você não precisa de muito pra começar a fazer suas primeiras artes. O kit básico pra começar são matérias que você provavelmente tem em casa. Isso mesmo.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+Basicamente você precisa de: um instrumento que corte (tesoura/estilete) e outro que cole (cola/fita biadesiva). Se quiser pode adicionar nessa lista papel (ou caneta), borracha e uma régua.
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+Pronto! Você já tem tudo que precisa para fazer qualquer trabalho em scrapbook. Você deve tá se perguntado "e todas aquelas ferramentas que vejo nos tutorias por aí?". Sim, existe uma infinidade de ferramentas para fazer os mais diversos trabalhos, contudo não são para os níveis iniciais. Ou pelo menos, não para quem ainda não quer investir nisso.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute.
+Eu quando comecei usei somente régua, estilete e durex. E conseguir fazer meu primeiro álbum usando só isso. Mas, vale ressaltar que existem algumas coisinhas que ajudam muito na hora de trabalhar.
 
-- That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-- We'll need to have a look inside you with this camera.
-- Fry! Quit doing the right thing, you jerk!
+## Kit iniciante - o básico mais profissional
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+Se eu pudesse listar o item mais útil para se trabalhar com Scrapbook, sem dúvidas, o primeiro seria um instrumento que ajuda a fazer dobraduras (base de vinco).
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+![Base de vinco e corte 30x30 cm](/assets/img_20190503_184421417.jpg "Base de vinco e corte 30x30 cm")
+
+Tem uns que vem junto o estilete para cortar (o meu é assim). Parece besteira mas ter algo que corta de maneira rápida e eficiente faz toda a diferença. E dobrar com facilidade deixa seu trabalho mais profissional.
+
+Pra quem gosta de cortar com estilete eu recomendo a base de corte com régua.
+
+![Base de corte](/assets/img-20200429-wa0017.jpg "Base de corte")
+
+Esses dois itens são mais que o suficiente. Mas se você ainda quer explorar com profundidade esse mundo do scrapbook, cuidado que a lista é enorme.
+
+## Kit avançado - um mar sem fim
+
+A lista é enorme e vai depender do estilo de trabalho que você quer fazer. Tem perfuradores, prensas de corte e textura, carimbos, canetas, glitter, acessórios, crop-a-dile, ferramentas para fazer envelopes, caixas, tags, para trabalhar com plástico. Até máquina de costura pode entrar nessa lista. Tem também as máquinas automáticas que cortam e desenham (mas custam bastante).
+
+![Materiais](/assets/progetto-senza-titolo.png "Materiais")
+
+É, a lista é grande mesmo. Mas você pode começar comprando aos poucos, de acordo com as coisas que deseja fazer. Nos próximos posts eu vou te contar a minha trajetória por esse mar de coisas. Quem sabe a gente não faz um review e tutorial de cada ferramenta utilizada? =D
+
+Espero que você se sinta inspirado para começar logo seu scrapbook! Afinal de contas, não precisa de muito pra dar o primeiro passo e criar o seu mini-álbum.

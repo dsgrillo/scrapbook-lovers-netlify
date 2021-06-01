@@ -1,54 +1,41 @@
 ---
 template: blog-post
-title: Book Shelf
-slug: /book-shelf
-date: 2019-07-10T00:00:00.000Z
-description: sdasd
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+title: Como tudo começou?
+slug: /como-tudo-comecou
+date: 2021-05-21 20:10
+description: Interesse por Scrapbook
+featuredImage: /assets/img_20180111_194704075_ll.jpg
 ---
+# Fotografias + Artesanato + Papelaria = Amor pelo Scrapbook 💚
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+### Fotos em um mundo digital
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+Eu sempre fui apaixonada por fotos. Desde pequena, admirava os álbuns de foto da família que minha mãe fazia. Sabe aqueles álbuns grandes dos anos 90 com uma película plástica para proteger as fotos? Então, era assim que se guardava as memórias. E minha mãe escrevia sempre sobre cada foto. Ela provavelmente não sabia mas estava fazendo scrapbook...
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+E nessa era de fotografia digital, eu ainda prefiro imprimir fotos... Não só isso, como eu sou apaixonada por fotos polaroid. Haha Eu coleciono fotos polaroids.
 
-## It doesn't look so shiny to me.
+![Leblanc](/assets/album-safari-16-.png "Leblanc arteira")
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+### Ainda vou vender minha arte na praia
 
-![]()
+Eu adoro artesanato. De tudo que tipo e estilo. Já pintei aquarela, a óleo, o sete. Já trabalhei com découpage, decorar e pintar caixas em MDF, pintura em tecidos e camisetas. Até já pintei móveis e paredes. Já fiz tricô e crochê. E até pulseira de missanga. O currículo aqui é vasto. Não quer dizer que sou craque em tudo, mas já tive a oportunidade de experimentar coisas novas.
 
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
+Eu sempre falo pra minha mãe que vou vender minha arte na praia. Haha eu dou risada disso mas é verdade. Esse meu lado hippie xD
 
-### Daylight and everything.
+![Eu e Mozão](/assets/album-safari-17-.png "Eu e Mozão")
 
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+### Aquele vício chamado papelaria
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+Sabe aquelas pessoas que amam o início do ano só pra ter motivo pra comprar cadernos, canetas, agenda e tudo que é vendido nas papelarias? Então, essa sou eu. Inclusive, quando era mais nova, sempre economizava os adesivos mais bonitos do caderno para ocasiões especiais.... Eu ainda tenho várias cartelas até hoje.
 
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
+Sempre gostei de tudo: das cores, texturas, formatos e estampas dos papéis. E se você conhece um pouquinho do mundo do scrapbook, com certeza você já se deparou na infinidade de papéis maravilhosos que existem por aí. Não só isso, mas os diversos acessórios que acompanham o scrap.
 
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
+![Envelopes](/assets/album-safari-18-.png "Envelopes")
 
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
+### Juntei tudo isso e me aventurei mais a fundo no mundo do Scrapbook
 
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
+Minha jornada tem duas vertentes. A primeira é o Scrapbook/journal. A segunda é a criação de álbuns e card making.
 
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Eu comecei a fazer scrapbook quando em um intercâmbio para Vancouver em 2010. Lá, uma amiga coreana estava montando seu álbum scrapbook com fotos polaroid. Simplesmente maravilhoso. E de lá pra cá comecei tb a fazer o mesmo, quer dizer, como não tinha polaroid, eu revelava as fotos.
 
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
+![Primeirpo Álbum](/assets/img_20180111_124330477.jpg "Meu primeiro Álbum")

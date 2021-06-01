@@ -12,5 +12,8 @@ Faça parte da nossa comunidade e aprenda a criar álbuns totalmente personaliza
 * Apaixonado por fotografias, trabalhos manuais e papelaria? 
 * Já ouviu falar em Scrapbook? 
 * Já pensou em ter um hobby criativo?
+* Quer ganhar uma renda extra vendendo álbuns personalizado?
+
+Se você respondeu sim para algumas dessas perguntas, a nossa comunidade pode ser o lugar perfeito para você.
 
 ``
