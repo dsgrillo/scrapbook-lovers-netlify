@@ -16,4 +16,6 @@ Faça parte da nossa comunidade e aprenda a criar álbuns totalmente personaliza
 
 Se você respondeu sim para algumas dessas perguntas, a nossa comunidade pode ser o lugar perfeito para você.
 
+Quer fazer parte da nossa comunidade? Entre em contato com a gente!
+
 ``

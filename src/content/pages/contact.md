@@ -12,8 +12,4 @@ Vamos conversar! =D
 
 Não hesite em falar conosco por meio das informações de contato, redes sociais ou envie uma mensagem usando o formulário.
 
-Siga a gente nas redes sociais:
-
-Instagram Scrapbooklovers_ 
-
-YouTube: Scrapbook Lovers
+Siga a gente nas redes sociais!
