@@ -11,18 +11,22 @@ const MenuItems = [
     title: "Home",
   },
   {
-    path: "/clube-do-scrapbook",
-    title: "Clube do Scrapbook",
+    path: "/about",
+    title: "Sobre mim",
   },
   {
-    path: "/about",
-    title: "About",
+    path: "/portafolio",
+    title: "Portafólio",
   },
-
   {
     path: "/blog",
     title: "Blog",
   },
+  {
+    path: "/clube-do-scrapbook",
+    title: "Clube do Scrapbook",
+  },
+
   {
     path: "/contact",
     title: "Contato",
